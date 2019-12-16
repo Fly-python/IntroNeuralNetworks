@@ -162,3 +162,7 @@ def back_test(strategy, seq_len, ticker, start_date, end_date, dim):
 
 本文为云栖社区原创内容，未经允许不得转载。
 https://zhuanlan.zhihu.com/p/46798641
+
+AIAlpha: Using machine learning to predict stocks
+https://medium.com/engineer-quant/alphaai-using-machine-learning-to-predict-stocks-79c620f87e53
+
